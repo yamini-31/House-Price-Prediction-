@@ -1,1 +1,2 @@
 # House-Price-Prediction-
+This project is a Python script for predicting house prices using a dataset from "HousePricePrediction.xlsx." It employs various data preprocessing techniques, visualization, and three different machine learning models: Support Vector Regression (SVR), Random Forest Regression (RFR), and Linear Regression (LR), as well as CatBoostRegressor. The performance of each model is evaluated using mean absolute percentage error.
