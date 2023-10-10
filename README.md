@@ -1,2 +1,2 @@
-# House-Price-Prediction-
-This project is a Python script for predicting house prices using a dataset from "HousePricePrediction.xlsx." It employs various data preprocessing techniques, visualization, and three different machine learning models: Support Vector Regression (SVR), Random Forest Regression (RFR), and Linear Regression (LR), as well as CatBoostRegressor. The performance of each model is evaluated using mean absolute percentage error.
+# House-Price-Prediction
+Our House Price Prediction project is all about using smart tools like Linear Regression and the impressive Gradient Boosting Regressor to guess how much houses cost. We dived into this to make it easy for folks to know what their dream homes might cost. It's like using magic math to help everyone in the house-hunting game. This project shows we can turn data into cool tricks and help people find their perfect place without breaking the bank.
